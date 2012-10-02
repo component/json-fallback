@@ -1,9 +1,9 @@
 {
-  "name": "json-polyfill",
+  "name": "json-fallback",
   "repo": "component/json",
-  "description": "JSON parser / stringifier polyfill",
+  "description": "JSON parser / stringifier fallback",
   "version": "0.0.1",
-  "keywords": ["json", "polyfill"],
+  "keywords": ["json", "fallback"],
   "dependencies": {},
   "development": {},
   "scripts": [

@@ -1,7 +1,7 @@
 
-# json-polyfill
+# json-fallback
 
-  JSON parser / stringifier polyfill for [json](https://github.com/component/json).
+  JSON parser / stringifier fallback for [json](https://github.com/component/json).
 
 ## Installation
 
