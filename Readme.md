@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ component install component/json-polyfill
+    $ component install component/json-fallback
 
 # License
 
