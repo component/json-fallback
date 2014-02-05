@@ -487,3 +487,5 @@ if (typeof JSON !== 'object') {
         };
     }
 }());
+
+module.exports = JSON;
