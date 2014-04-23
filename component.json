@@ -2,7 +2,7 @@
   "name": "json-fallback",
   "repo": "component/json",
   "description": "JSON parser / stringifier fallback",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["json", "fallback"],
   "dependencies": {},
   "scripts": ["index.js"],
