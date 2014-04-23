@@ -5,8 +5,8 @@
   "version": "0.0.1",
   "keywords": ["json", "fallback"],
   "dependencies": {},
-  "development": {},
-  "scripts": [
-    "index.js"
-  ]
+  "scripts": ["index.js"],
+  "development": {
+    "component/assert": "*"
+  }
 }
